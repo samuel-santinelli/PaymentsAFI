@@ -3,7 +3,7 @@ Este projeto Java é uma API de pagamentos desenvolvida com Spring Boot, integra
 
 ## Funcionalidades  
 
-- **Processamento de Pagamentos**: Permite enviar informações de pagamento para a API da EFI e receber uma resposta com o status do pagamento.    -
+- **Processamento de Pagamentos**: Permite enviar informações de pagamento para a API da EFI e receber uma resposta com o status do pagamento.
 
 **Consulta de Status de Pagamento**: Permite verificar o status atual de um pagamento específico através da API da EFI.  
 
